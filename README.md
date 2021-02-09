@@ -4,5 +4,5 @@ Aim: To find out the n most popular hashtags trending on social media. As the ha
 
 The following data structures are used for the implementation:
 
-Fibonacci Heap: Implement a max priority queue based on the frequencies of the hashtags. (Increase Key runs in O(1) in amortized sense and Remove Max run in O(log n) in amortized sense)
-Hash Table: A table to keep track of hashtags in the heap, with pointers to the nodes of the Fibonacci Heap.
+1. Fibonacci Heap: Implement a max priority queue based on the frequencies of the hashtags. (Increase Key runs in O(1) in amortized sense and Remove Max run in O(log n) in amortized sense)
+2. Hash Table: A table to keep track of hashtags in the heap, with pointers to the nodes of the Fibonacci Heap.
